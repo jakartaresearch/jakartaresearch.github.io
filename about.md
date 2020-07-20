@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We are a growing research community based in Jakarta. Our research focuses are generally in Aritifical Intelligence and Machine Learning applications to improve people's life.
 
-### Contact me
+### Contact Us
 
-[email@domain.com](mailto:email@domain.com)
+[Linkedin](https://linkedin.com/company/jakartaresearch)
+[Github](https://github.com/jakartaresearch)
+[Instagram](https://instagram.com/jakartaresearch)
