@@ -8,6 +8,7 @@ permalink: /log/
 | ------------- | ----------------------------------------------------------------------- |
 | 26-08-2020    | Data Science Webinar at TAU - NLP Applications                          |
 | 19-09-2020    | Data Science Webinar at TAU - Data Science 101                          |
+| 12-09-2020    | Small Area Estimation with Machine Learning Project `started`           |
 | 03-09-2020    | Maleo Project `started`                                                 |
 | 30-08-2020    | Deep Learning Discussion - The Fundamental in User Xperience            |
 | 23-08-2020    | Deep Learning Discussion - Lesson Learned from Conducting Research      |
