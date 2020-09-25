@@ -2,7 +2,7 @@
 layout: page
 title: Activity log
 permalink: /log/
----
+---	
 
 | Date          | Activity                                         |
 | ------------- | ------------------------------------------------ |
