@@ -7,7 +7,7 @@ permalink: /log/
 | Date          | Activity                                                                |
 | ------------- | ----------------------------------------------------------------------- |
 | 26-08-2020    | Data Science Webinar at TAU - NLP Applications                          |
-| 19-09-2020    | Data Science Webinar at TAU - Data Science 101                          |
+| 19-09-2020    | [Data Science Webinar at TAU - Data Science 101](https://www.youtube.com/watch?v=9_yA95LiMos)                          |
 | 12-09-2020    | [Small Area Estimation with Machine Learning Project](https://github.com/jakartaresearch/small-area-estimation-with-ml) `started`           |
 | 03-09-2020    | [Maleo Project](https://github.com/jakartaresearch/maleo) `started`                                                 |
 | 30-08-2020    | [Deep Learning Discussion - The Fundamental in User Xperience](https://www.linkedin.com/posts/jakartaresearch_ux-and-its-fundamental-activity-6707234893665050624-0HH3)            |
