@@ -27,5 +27,5 @@ permalink: /log/
 | 01-04-2020    | Ruben Stefanus `joined`                                                 |
 | 01-03-2020    | Quora Question Pairs Project `started`                                  |
 | 01-05-2019    | Word Segementation `dismissed`                                          |
-| 01-03-2019    | Word Segmentation Project `started`                                     |
+| 01-03-2019    | [Word Segmentation](https://github.com/jakartaresearch/word-segmentation) Project `started`  |
 | 01-03-2019    | Jakarta Artificial Intelligence Research `started`                      |
