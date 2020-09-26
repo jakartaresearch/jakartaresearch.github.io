@@ -9,7 +9,7 @@ name: Jakarta Artificial Intelligence Research
 description: A community research-based in Jakarta for Artificial Intelligence
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://avatars3.githubusercontent.com/u/48152848?s=400&u=15cc19d4f6fb943983bd40b3c30a8695935cd3f2&v=4
 
 #
 # Flags below are optional
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-179066799-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
