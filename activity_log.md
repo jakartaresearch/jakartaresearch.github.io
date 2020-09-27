@@ -27,7 +27,7 @@ permalink: /log/
 | 06-06-2020    | [Logo Generator Project](https://github.com/jakartaresearch/logo-generator) `started`|
 | 17-05-2020    | [Analyzing & Detecting Indonesian Buzzer in Twitter Project](https://github.com/jakartaresearch/adi-buzzer) `started`|
 | 06-05-2020    | [Jakarta Research on Linkedin](https://www.linkedin.com/company/jakartaresearch)|
-| 01-05-2020    | Quora Question Pairs `finished`|
+| 01-05-2020    | [Quora Question Pairs Project](https://github.com/jakartaresearch/quora-question-pairs) `finished`|
 | 01-05-2020    | [Andhika Setia Pratama](https://www.linkedin.com/in/andhika-setia-pratama-75ba99179/) `joined`|
 | 01-04-2020    | [Ruben Stefanus](https://www.linkedin.com/in/rubenstefanus/) `joined`|
 | 01-03-2020    | [Quora Question Pairs](https://github.com/jakartaresearch/quora-question-pairs) Project `started`|
