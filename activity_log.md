@@ -31,6 +31,6 @@ permalink: /log/
 | 01-05-2020    | [Andhika Setia Pratama](https://www.linkedin.com/in/andhika-setia-pratama-75ba99179/) `joined`|
 | 01-04-2020    | [Ruben Stefanus](https://www.linkedin.com/in/rubenstefanus/) `joined`|
 | 01-03-2020    | [Quora Question Pairs](https://github.com/jakartaresearch/quora-question-pairs) Project `started`|
-| 01-05-2019    | Word Segementation `dismissed`|
-| 01-03-2019    | [Word Segmentation](https://github.com/jakartaresearch/word-segmentation) Project `started`|
+| 01-05-2019    | [Word Segementation Project](https://github.com/jakartaresearch/word-segmentation) `dismissed`|
+| 01-03-2019    | [Word Segmentation Project](https://github.com/jakartaresearch/word-segmentation) Project `started`|
 | 01-03-2019    | Jakarta Artificial Intelligence Research `started`|
