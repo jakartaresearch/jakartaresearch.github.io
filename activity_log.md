@@ -6,8 +6,9 @@ permalink: /log/
 
 | Date          | Activity                                                                |
 | ------------- | ----------------------------------------------------------------------- |
-| 27-08-2020    | Deep Learning Discussion - Introduction to Speech Recognition|
-| 26-08-2020    | [Data Science Webinar at TAU - NLP Applications](https://www.youtube.com/watch?v=CgeaHve0RHo)|
+| 11-10-2020    | Deep Learning Discussion - UX Writer in UX Realm|
+| 27-09-2020    | Deep Learning Discussion - Introduction to Speech Recognition|
+| 26-09-2020    | [Data Science Webinar at TAU - NLP Applications](https://www.youtube.com/watch?v=CgeaHve0RHo)|
 | 19-09-2020    | [Data Science Webinar at TAU - Data Science 101](https://www.youtube.com/watch?v=9_yA95LiMos)|
 | 12-09-2020    | [Small Area Estimation with Machine Learning Project](https://github.com/jakartaresearch/small-area-estimation-with-ml) `started`|
 | 03-09-2020    | [Maleo Project](https://github.com/jakartaresearch/maleo) `started`|
