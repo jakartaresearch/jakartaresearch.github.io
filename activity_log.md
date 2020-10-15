@@ -6,6 +6,7 @@ permalink: /log/
 
 | Date       | Activity                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 13-10-2020 | [Small Area Estimation with Machine Learning Project](https://github.com/jakartaresearch/small-area-estimation-with-ml) `on freeze`                                                |
 | 11-10-2020 | Deep Learning Discussion - UX Writer in UX Realm                                                                                                                                   |
 | 27-09-2020 | [Deep Learning Discussion - Introduction to Speech Recognition](https://www.linkedin.com/posts/jakartaresearch_intro-to-speech-recognition-activity-6722404148148600832-mvTd)      |
 | 26-09-2020 | [Data Science Webinar at TAU - NLP Applications](https://www.youtube.com/watch?v=CgeaHve0RHo)                                                                                      |
