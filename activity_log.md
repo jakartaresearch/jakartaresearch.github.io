@@ -18,6 +18,7 @@ permalink: /log/
 | 12-09-2020 | [Small Area Estimation with Machine Learning Project](https://github.com/jakartaresearch/small-area-estimation-with-ml) `started`                                                  |
 | 03-09-2020 | [Maleo Project](https://github.com/jakartaresearch/maleo) `started`                                                                                                                |
 | 01-09-2020 | [Pytorch Sentiment Project](https://github.com/jakartaresearch/pytorch-sentiment) `finished`                                                                                       |
+| 30-08-2020 | [Novia Permatasari](https://www.linkedin.com/in/novia-permatasari-382209146/) `joined`                                                                                             |
 | 30-08-2020 | [Deep Learning Discussion - The Fundamental in User Xperience](https://www.linkedin.com/posts/jakartaresearch_ux-and-its-fundamental-activity-6707234893665050624-0HH3)            |
 | 23-08-2020 | [Deep Learning Discussion - Lesson Learned from Conducting Research](https://www.linkedin.com/posts/jakartaresearch_how-to-conduct-research-activity-6705357921926180864-lmUD)     |
 | 20-08-2020 | [Deep Learning Discussion - Machine Learning on the Edge](https://www.linkedin.com/posts/jakartaresearch_edge-machine-learning-activity-6704320946603388928-FnTI)                  |
