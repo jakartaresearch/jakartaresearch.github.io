@@ -6,8 +6,11 @@ permalink: /log/
 
 | Date       | Activity                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 28-10-2020 | [Imanuel Buhapoda Drexel](https://www.linkedin.com/in/imanueld/) `joined`                                                                                                          |
+| 18-10-2020 | [Saweria as a platform for donation](https://saweria.co/jakartaresearch)                                                                                                           |
+| 18-10-2020 | [Deep Learning Discussion - Dimensionality Reduction with t-SNE]()                                                                                                           |
 | 13-10-2020 | [Small Area Estimation with Machine Learning Project](https://github.com/jakartaresearch/small-area-estimation-with-ml) `on freeze`                                                |
-| 11-10-2020 | Deep Learning Discussion - UX Writer in UX Realm                                                                                                                                   |
+| 11-10-2020 | [Deep Learning Discussion - UX Writer in UX Realm](https://www.linkedin.com/posts/jakartaresearch_ux-writer-activity-6725405458137534464-EK8V)                                     |
 | 27-09-2020 | [Deep Learning Discussion - Introduction to Speech Recognition](https://www.linkedin.com/posts/jakartaresearch_intro-to-speech-recognition-activity-6722404148148600832-mvTd)      |
 | 26-09-2020 | [Data Science Webinar at TAU - NLP Applications](https://www.youtube.com/watch?v=CgeaHve0RHo)                                                                                      |
 | 19-09-2020 | [Data Science Webinar at TAU - Data Science 101](https://www.youtube.com/watch?v=9_yA95LiMos)                                                                                      |
