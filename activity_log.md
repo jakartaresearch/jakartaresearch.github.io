@@ -6,6 +6,7 @@ permalink: /log/
 
 | Date       | Activity                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-11-2020 | [Abstractive Summariation Project]() `started`                                                                                                          |
 | 28-10-2020 | [Imanuel Buhapoda Drexel](https://www.linkedin.com/in/imanueld/) `joined`                                                                                                          |
 | 18-10-2020 | [Saweria as a platform for donation](https://saweria.co/jakartaresearch)                                                                                                           |
 | 18-10-2020 | [Deep Learning Discussion - Dimensionality Reduction with t-SNE]()                                                                                                                 |
