@@ -6,6 +6,10 @@ permalink: /log/
 
 | Date       | Activity                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 07-11-2020 | [Galaxy Prediction Project]() `started`                                                                                                          |
+| 06-11-2020 | [Ocean Wave Prediction Project]() `started`                                                                                                          |
+| 04-11-2020 | [Yevonnael Andrew](https://www.linkedin.com/in/yevonnael-andrew-3351b9a7/) `joined`                                                                                                          |
+| 02-11-2020 | [Titan Muslim Al-Khan](https://www.linkedin.com/in/alkhantitan/) `joined`                                                                                                          |
 | 01-11-2020 | [Abstractive Summariation Project]() `started`                                                                                                          |
 | 28-10-2020 | [Imanuel Buhapoda Drexel](https://www.linkedin.com/in/imanueld/) `joined`                                                                                                          |
 | 18-10-2020 | [Saweria as a platform for donation](https://saweria.co/jakartaresearch)                                                                                                           |
