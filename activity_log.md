@@ -6,7 +6,7 @@ permalink: /log/
 
 | Date       | Activity                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 13-11-2020 | Christmas & New Year Holiday                                                                                                                                                       |
+| 13-12-2020 | Christmas & New Year Holiday                                                                                                                                                       |
 | 07-11-2020 | [Galaxy Prediction Project](https://github.com/jakartaresearch/galaxy-classification) `started`                                                                                    |
 | 06-11-2020 | [Ocean Wave Prediction Project](https://github.com/jakartaresearch/ocean-wave-prediction) `started`                                                                                |
 | 04-11-2020 | [Yevonnael Andrew](https://www.linkedin.com/in/yevonnael-andrew-3351b9a7/) `joined`                                                                                                |
