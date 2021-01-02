@@ -4,8 +4,6 @@ title: Donation
 permalink: /donation/
 ---
 
-# Donation
-
 ## Q4 2020 Supporters
 
 | Name                  | Email                              | Amount        |
