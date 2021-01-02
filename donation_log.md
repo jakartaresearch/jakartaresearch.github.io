@@ -4,6 +4,9 @@ title: Donation
 permalink: /donation/
 ---
 
+Thank you for your support for our community!
+This means a lot to us.
+
 ## Q4 2020 Supporters
 
 | Name                  | Email                              | Amount        |
