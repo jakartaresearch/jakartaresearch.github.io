@@ -6,6 +6,10 @@ permalink: /log/
 
 | Date       | Activity                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 18-01-2021 | [Kevin Kurnia Sentosa](https://www.linkedin.com/in/kevin-kurnia-santosa-543937128/) `joined`                                                                                       |
+| 16-01-2021 | [Webinar - What's Inside Jakarta Research]()                                                                                                                                       |
+| 12-01-2021 | Data Folks Indonesia officially move to datafolksid.xyz                                                                                                                            |
+| 10-01-2021 | Jakarta Research Return to regular activity                                                                                                                                        |
 | 13-12-2020 | Christmas & New Year Holiday                                                                                                                                                       |
 | 07-11-2020 | [Galaxy Prediction Project](https://github.com/jakartaresearch/galaxy-classification) `started`                                                                                    |
 | 06-11-2020 | [Ocean Wave Prediction Project](https://github.com/jakartaresearch/ocean-wave-prediction) `started`                                                                                |
