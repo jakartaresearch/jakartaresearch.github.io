@@ -6,6 +6,9 @@ permalink: /log/
 
 | Date       | Activity                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 25-02-2021 | [Imanuel Drexel]()`exit`                                                                                                                                                           |
+| 02-02-2021 | [Kevin Kurnia Sentosa](https://www.linkedin.com/in/kevin-kurnia-santosa-543937128/) `exit`                                                                                         |
+| 25-01-2021 | [Juan Nathaniel]() `joined`                                                                                                                                                        |
 | 18-01-2021 | [Kevin Kurnia Sentosa](https://www.linkedin.com/in/kevin-kurnia-santosa-543937128/) `joined`                                                                                       |
 | 16-01-2021 | [Webinar - What's Inside Jakarta Research]()                                                                                                                                       |
 | 12-01-2021 | Data Folks Indonesia officially move to datafolksid.xyz                                                                                                                            |
