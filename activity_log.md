@@ -6,6 +6,7 @@ permalink: /log/
 
 | Date       | Activity                                                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09-03-2021 | [Junaedi Fahmi]()`joined`                                                                                                                                                          |
 | 25-02-2021 | [Imanuel Drexel]()`exit`                                                                                                                                                           |
 | 02-02-2021 | [Kevin Kurnia Sentosa](https://www.linkedin.com/in/kevin-kurnia-santosa-543937128/) `exit`                                                                                         |
 | 25-01-2021 | [Juan Nathaniel]() `joined`                                                                                                                                                        |
