@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multimodal Deep Learning
+title: Data Jam ep 3 - Multimodal Deep Learning
 ---
 
 ## Overview
