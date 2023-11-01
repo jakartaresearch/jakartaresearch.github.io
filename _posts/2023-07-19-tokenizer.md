@@ -4,11 +4,11 @@ title: Data Jam EP 1 - Explore Large Language Model
 ---
 
 ## LLM
-- A Very Gentle Introduction to Large Language Models without the Hype | by Mark Riedl | Medium
+- A Very Gentle Introduction to Large Language Models without the Hype - by Mark Riedl - Medium
 - Awesome-LLM: a curated list of Large Language Model
-- Llama-cpp | 🦜️🔗 Langchain
+- Llama-cpp - 🦜️🔗 Langchain
 - Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4
-- Introduction | CS324
+- Introduction - CS324
 - COS 597G (Fall 2022): Understanding Large Language Models
 - Large Language Model Text Generation Inference
 
