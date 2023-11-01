@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Jam ep 1 - Explore Large Language Model
+title: Data Jam EP 1 - Explore Large Language Model
 ---
 
 ## LLM
