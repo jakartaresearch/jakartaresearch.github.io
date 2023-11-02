@@ -17,8 +17,8 @@ Tokenizers are one of the core components of the NLP pipeline. They serve one pu
 - Byte-Pair Encoding tokenization - Hugging Face NLP Course
 - WordPiece tokenization - Hugging Face NLP Course
 - WordPiece tokenization - Hugging Face NLP Course
-- Byte Pair Encoding and Data Structures | Rust NLP tales
+- Byte Pair Encoding and Data Structures - Rust NLP tales
 - Fast WordPiece Tokenization
 - Fast tokenizers' special powers - Hugging Face NLP Course
-- Why OpenAI’s API Is More Expensive for Non-English Languages | by Leonie Monigatti | Aug, 2023 | Towards Data Science
+- Why OpenAI’s API Is More Expensive for Non-English Languages - by Leonie Monigatti - Aug, 2023 - Towards Data Science
 - sentencepiece/python/README.md at master
