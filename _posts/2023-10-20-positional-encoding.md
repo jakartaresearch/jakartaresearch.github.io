@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Data Jam ep 5 - Positional Encoding in Transformer
+title: Data Jam EP 5 - Positional Encoding in Transformer
 ---
 
-In languages, the order of the words and their position in a sentence really matters.
+In languages, the **order of the words** and **their position in a sentence really matters**.
 
 The meaning of the entire sentence can change if the words are re-ordered. When implementing NLP solutions, recurrent neural networks have an inbuilt mechanism that deals with the order of sequences. The transformer model, however, does not use recurrence or convolution and treats each data point as independent of the other.
 
@@ -15,7 +15,7 @@ However, in return for the grace of parallelization, Transformers gave up the in
 
 For example, “Alice follows Bob” and “Bob follows Alice” are completely different sentences, but a Transformer without position information will produce the same representation. Therefore, the Transformer explicitly encodes the position information.
 
-Hence, positional information is added to the model explicitly to retain the information regarding the order of words in a sentence. Positional encoding is the scheme through which the knowledge of the order of objects in a sequence is maintained.
+Hence, **positional information is added to the model explicitly to retain the information regarding the order of words in a sentence**. Positional encoding is the scheme through which the knowledge of the order of objects in a sequence is maintained.
 
 ## What Is Positional Encoding?
 Positional encoding describes the location or position of an entity in a sequence so that each position is assigned a unique representation.
@@ -35,13 +35,13 @@ You can spot the rate of change between different bits. The LSB bit is alternati
 But using binary values would be a waste of space in the world of floats. So instead, we can use their float continous counterparts - Sinusoidal functions. Indeed, they are the equivalent to alternating bits. Moreover, By decreasing their frequencies, we can go from red bits to orange ones.
 
 ## History
-- Absolute Position Encodings Explained | Papers With Code
-- Relative Position Encodings Explained | Papers With Code
-- Rotary Embeddings Explained | Papers With Code.
-- ALiBi Explained | Papers With Code
+- [Absolute Position Encodings Explained - Papers With Code](https://paperswithcode.com/method/absolute-position-encodings)
+- [Relative Position Encodings Explained - Papers With Code](https://paperswithcode.com/method/relative-position-encodings)
+- [Rotary Embeddings Explained - Papers With Code](https://paperswithcode.com/method/rope#:~:text=Rotary%20Position%20Embedding%2C%20or%20RoPE,dependency%20in%20self%2Dattention%20formulation)
+- [ALiBi Explained - Papers With Code](https://paperswithcode.com/method/alibi)
 
 ## References
 - A Short History of Positional Encoding - Dongkwan Kim
 - A Gentle Introduction to Positional Encoding in Transformer Models, Part 1 - MachineLearningMastery.com.
 - Transformer Architecture: The Positional Encoding - Amirhossein Kazemnejad's Blog
-- Master Positional Encoding: Part I | by Jonathan Kernes | Towards Data Science
+- Master Positional Encoding: Part I - by Jonathan Kernes - Towards Data Science
