@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Data Jam ep 4 - Tokenizer
+title: Data Jam EP 4 - Tokenizer
 ---
 
 ## Overview
 
-Tokenizers are one of the core components of the NLP pipeline. They serve one purpose: to translate text into data that can be processed by the model. Models can only process numbers, so tokenizers need to convert our text inputs to numerical data. --huggingface
+Tokenizers are one of the core components of the NLP pipeline. They serve one purpose: **to translate text into data that can be processed by the model**. Models can only process numbers, so tokenizers need to convert our text inputs to numerical data. --huggingface
 
 - Understanding GPT tokenizers
 - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
