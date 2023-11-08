@@ -3,7 +3,7 @@ layout: post
 title: Python Hands-on: Python Data Frame Benchmark
 ---
 
-
+Code repo for this session bencharm can be found [here](https://github.com/andreaschandra/df-benchmark)
 
 ## Previous Benchmark
 
@@ -18,7 +18,7 @@ title: Python Hands-on: Python Data Frame Benchmark
 - [Polars R Package](https://rpolars.github.io/)
 - [tidypolars](https://tidypolars.readthedocs.io/en/latest)
 
-## Tutorials & Opionions
+## Tutorials & Opinions
 
 - [Youtube - Python Polars Tutorial](https://www.youtube.com/watch?v=F63YvoeEnzg&ab_channel=JoramMutenge)
 - [Polars - Cookbook insp. Pandas Cookbook](https://github.com/escobar-west/polars-cookbook)
