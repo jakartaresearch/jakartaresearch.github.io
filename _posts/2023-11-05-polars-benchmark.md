@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Hands-on: Python Data Frame Benchmark
+title: Python Hands-on - Python Data Frame Benchmark
 ---
 
 Code repo for this session bencharm can be found [here](https://github.com/andreaschandra/df-benchmark)
